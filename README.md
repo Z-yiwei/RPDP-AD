@@ -1,5 +1,5 @@
 # RPDP-AD: Unsupervised Anomaly Detection for Aircraft PRSOV via Random Projection-Based Inner Product Prediction
-This repository provides the official implementation of our IEEE T-IM paper:
+This repository provides the official implementation of our IEEE TIM paper:
 
 **Unsupervised Anomaly Detection for Aircraft PRSOV with Random Projection-Based Inner Product Prediction**,  
 Accepted to **IEEE Transactions on Instrumentation and Measurement**, 2025.
