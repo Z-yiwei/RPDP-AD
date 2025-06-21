@@ -2,7 +2,6 @@
 This repository provides the official implementation of our IEEE T-IM paper:
 
 **Unsupervised Anomaly Detection for Aircraft PRSOV with Random Projection-Based Inner Product Prediction**,  
-by *Dandan Peng, Ning Zhu, Te Han, Zhuyun Chen, and Chenyu Liu*  
 Accepted to **IEEE Transactions on Instrumentation and Measurement**, 2025.
 
 **RPDP-AD** (Random Projection Distance Prediction for Anomaly Detection) is an **unsupervised** learning method for detecting anomalies in **Pressure Regulated Shutoff Valves (PRSOV)** — a critical component in aircraft Environmental Control Systems (ECS). It features:
