@@ -46,6 +46,5 @@ If you use this repository or would like to refer to the paper, please use the f
   volume={74},
   number={},
   pages={1-11},
-  keywords={Anomaly detection;Aircraft;Feature extraction;Deep learning;Valves;Aircraft propulsion;Aerospace electronics;Training;Atmospheric modeling;Stability analysis;Anomaly detection;deep learning;fault diagnosis;pressure regulated shutoff valves (PRSOVs)},
   doi={10.1109/TIM.2025.3568969}}
 ```
