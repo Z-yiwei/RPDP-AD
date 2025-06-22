@@ -41,10 +41,11 @@ If you use this repository or would like to refer to the paper, please use the f
 @ARTICLE{dandan2025RPDP,
   author={Peng, Dandan and Zhu, Ning and Han, Te and Chen, Zhuyun and Liu, Chenyu},
   journal={IEEE Transactions on Instrumentation and Measurement}, 
-  title={Unsupervised Anomaly Detection for Aircraft PRSOV With Random Projection-Based Inner Product Prediction}, 
+  title={Unsupervised Anomaly Detection For Aircraft PRSOV With Random Projection-Based Inner Product Prediction}, 
   year={2025},
   volume={74},
   number={},
   pages={1-11},
-  doi={10.1109/TIM.2025.3568969}}
+  doi={10.1109/TIM.2025.3568969}
+}
 ```
