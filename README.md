@@ -38,7 +38,7 @@ Simulated data is generated via MATLAB Simulink under expert-guided fault inject
 ## 📚 Citation 
 If you use this repository or would like to refer to the paper, please use the following:
 ```bash
-@ARTICLE{dandan2025RPDP,
+@ARTICLE{Peng2025RPDP,
   author={Peng, Dandan and Zhu, Ning and Han, Te and Chen, Zhuyun and Liu, Chenyu},
   journal={IEEE Transactions on Instrumentation and Measurement}, 
   title={Unsupervised Anomaly Detection For Aircraft PRSOV With Random Projection-Based Inner Product Prediction}, 
